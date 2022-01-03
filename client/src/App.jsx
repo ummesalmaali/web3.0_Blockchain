@@ -1,4 +1,11 @@
-import React from "react";
+import {
+  NavBar,
+  Services,
+  Footer,
+  Transaction,
+  Welcome,
+  Loader,
+} from "./components/index.js";
 
 function App() {
   return (
